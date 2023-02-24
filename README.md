@@ -5,7 +5,7 @@ I am a full-stack developer interested in building practical solutions to painfu
 Check out my most recent project below.
 
 <a href="https://github.com/Nick-Zafiropoulos/dm-gen">
-    <img alt="most recent project" title="Check out my most recent project!" src="https://custom-icon-badges.demolab.com/badge/-DM%20Gen-blue?style=for-the-badge&logoColor=white&logo=repo"/></a>
+    <img width='110px' alt="most recent project" title="Check out my most recent project!" src="https://custom-icon-badges.demolab.com/badge/-DM%20Gen-blue?style=for-the-badge&logoColor=white&logo=repo"/></a>
     
     
 ## Languages and Tools
