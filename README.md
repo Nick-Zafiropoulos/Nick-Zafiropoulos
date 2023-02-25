@@ -11,7 +11,6 @@ Check out my most recent project below.
 ## Languages and Tools
 
 ![javascript](https://user-images.githubusercontent.com/102330367/221290588-1ac76a5e-a1ef-4008-b494-ed3d2a1700f6.svg)
-![typescript](https://user-images.githubusercontent.com/102330367/221301513-003d80f8-260f-4c1b-b605-74fb7f0f305d.svg)
 ![nodejs-dark](https://user-images.githubusercontent.com/102330367/221290680-7a735c9a-e52f-469a-ba8c-83dd3b8079f2.svg)
 ![expressjs-dark](https://user-images.githubusercontent.com/102330367/221290897-71ce897a-994c-4648-8e46-20980ea03952.svg)
 ![mongodb](https://user-images.githubusercontent.com/102330367/221290905-4681b961-a6bb-4418-aa0a-d9e99da9659a.svg)
