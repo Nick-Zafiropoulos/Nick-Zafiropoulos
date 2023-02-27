@@ -19,6 +19,7 @@ Check out my most recent project below.
 ![html](https://user-images.githubusercontent.com/102330367/221290935-b9645ebc-4c1c-4975-bff7-81e677190082.svg)
 ![css](https://user-images.githubusercontent.com/102330367/221290945-3a601c4f-4008-4954-b0e5-d282f02f201f.svg)
 ![git](https://user-images.githubusercontent.com/102330367/221301681-4c71ef2a-4496-41e5-a672-4002166e1ce8.svg)
+![jest](https://user-images.githubusercontent.com/102330367/221700668-1bb13b2c-a34f-43ee-ab34-3cb83d9812ba.svg)
 ![bootstrap](https://user-images.githubusercontent.com/102330367/221302047-91de0c7d-0ecd-4715-8886-08037ee6a292.svg)
 ![material-ui](https://user-images.githubusercontent.com/102330367/221302036-b5b8033d-486f-468a-ad87-7f099d081ccc.svg)
 
