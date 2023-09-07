@@ -2,11 +2,22 @@
 
 I am a full-stack developer interested in building practical solutions to painful problems. My expertise is in Node.js/React, but I am always looking to learn something new! My projects start with problem identification and go through planning, design, and implementation in order to create a useable solution with the end-user in mind.
 
-Check out my most recent project below.
+You can find some examples of my work below.
 
+### A Full-Stack Application
 <a href="https://github.com/Nick-Zafiropoulos/dm-gen">
-    <img width='110px' alt="most recent project" title="Check out my most recent project!" src="https://custom-icon-badges.demolab.com/badge/-DM%20Gen-blue?style=for-the-badge&logoColor=white&logo=repo"/></a>
-    
+    <img width='310px' alt="DM Gen" title="DM Gen" src="https://custom-icon-badges.demolab.com/badge/-DM%20Gen:%20A%20DND%20Generative%20Tool-teal?style=for-the-badge&logoColor=white&logo=repo"/></a>
+<br>
+
+### An Application Building Off Of An Extensibility Layer
+
+<a href="https://github.com/Nick-Zafiropoulos/discord-event-organizer">
+    <img width='270px' alt="Event Organizer" title="Event Organizer Application" src="https://custom-icon-badges.demolab.com/badge/-Discord%20Event%20Organizer-blue?style=for-the-badge&logoColor=white&logo=repo"/></a>
+
+### A Front-End Application
+
+<a href="https://github.com/Nick-Zafiropoulos/event-organizer-site">
+    <img width='270px' alt="Event Organizer Website" title="Event Organizer Website" src="https://custom-icon-badges.demolab.com/badge/-Event%20Organizer%20Website-purple?style=for-the-badge&logoColor=white&logo=repo"/></a>
     
 ## Languages and Tools
 
