@@ -9,7 +9,7 @@ You can find some examples of my work below.
     <img width='310px' alt="DM Gen" title="DM Gen" src="https://custom-icon-badges.demolab.com/badge/-DM%20Gen:%20A%20DND%20Generative%20Tool-teal?style=for-the-badge&logoColor=white&logo=repo"/></a>
 <br>
 
-### An Application Building Off Of An Extensibility Layer
+### A Back-End Application Building Off Of An Extensibility Layer
 
 <a href="https://github.com/Nick-Zafiropoulos/discord-event-organizer">
     <img width='270px' alt="Event Organizer" title="Event Organizer Application" src="https://custom-icon-badges.demolab.com/badge/-Discord%20Event%20Organizer-blue?style=for-the-badge&logoColor=white&logo=repo"/></a>
