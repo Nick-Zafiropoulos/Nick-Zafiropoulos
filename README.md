@@ -16,6 +16,8 @@ Check out my most recent project below.
 ![mongodb](https://user-images.githubusercontent.com/102330367/221290905-4681b961-a6bb-4418-aa0a-d9e99da9659a.svg)
 ![react-dark](https://user-images.githubusercontent.com/102330367/221290916-6d91e457-3086-4a56-b161-d83c7d2536c3.svg)
 ![redux](https://user-images.githubusercontent.com/102330367/221290923-061d34f5-c4c9-4759-a64c-fc5d947fdef2.svg)
+![icons8-typescript](https://github.com/Nick-Zafiropoulos/Nick-Zafiropoulos/assets/102330367/d5c1f65c-192f-487a-a7a6-70aeebb4497b)
+![icons8-nextjs](https://github.com/Nick-Zafiropoulos/Nick-Zafiropoulos/assets/102330367/1964aa77-3be2-4ca7-a5f1-f993e2018f7f)
 ![html](https://user-images.githubusercontent.com/102330367/221290935-b9645ebc-4c1c-4975-bff7-81e677190082.svg)
 ![css](https://user-images.githubusercontent.com/102330367/221290945-3a601c4f-4008-4954-b0e5-d282f02f201f.svg)
 ![git](https://user-images.githubusercontent.com/102330367/221301681-4c71ef2a-4496-41e5-a672-4002166e1ce8.svg)
