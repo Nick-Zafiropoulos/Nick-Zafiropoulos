@@ -1,6 +1,6 @@
 # Nick Zafiropoulos
 
-I am a full-stack developer interested in building practical solutions to painful problems. My expertise is in Node.js/React, but I am always looking to learn something new! My projects start with problem identification and go through planning, design, and implementation in order to create a useable solution with the end-user in mind.
+I am a data analyst and full-stack developer interested in building practical solutions to painful problems. My expertise is in Node.js/React, but I am always looking to learn something new! My projects start with problem identification and go through planning, design, and implementation in order to create a useable solution with the end-user in mind.
 
 You can find some examples of my work below.
 
